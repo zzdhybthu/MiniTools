@@ -1,5 +1,5 @@
 # MiniTools
-## Introduction
+## Description
 Minitools for downloading bilibili videos, downloading music, transferring .mp4 to .mp3, or copying files with intelligence
 ## Usage
 1. `pip install` dependency
