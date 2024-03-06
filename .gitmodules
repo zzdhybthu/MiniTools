@@ -1,0 +1,3 @@
+[submodule "THU-Book-Crawler"]
+	path = THU-Book-Crawler
+	url = ssh://git@ssh.github.com:443/chengsx21/THU-Book-Crawler.git
