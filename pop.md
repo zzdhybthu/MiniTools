@@ -95,3 +95,32 @@
     https://zhuanlan.zhihu.com/p/545309061
 
 41. Error running install script for optional dependency:"/Users/zhenzhengdehuoyubi/Desktop/Software/code/api/node modules/cpu-features: Command failed.：https://github.com/kelektiv/node.bcrypt.js/issues/1018
+
+42. 本地对远程主机做二次代理：
+
+    ssh -NfR port:localhost:7890 user@ip
+
+    export http_proxy=http://127.0.0.1:port
+
+    export https_proxy=http://127.0.0.1:port
+
+43. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+
+44. 服务器下载链接：wget
+
+45. 查看进程：ps aux | grep ssh
+
+46. 压缩：tar -czvf logs_archive.tar.gz *
+
+    解压：tar -xzvf logs_archive.tar.gz
+
+47. docker使用：https://blog.csdn.net/u011304078/article/details/102546247
+
+48. Conda config --set ssl_verify false
+
+49. Nvidia-smi
+
+47. nvcc -V
+
+
+
