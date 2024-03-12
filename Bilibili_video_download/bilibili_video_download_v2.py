@@ -111,7 +111,7 @@ def format_size(bytes):
 def down_video(video_list, title, start_url, page):
     num = 1
     print('[正在下载P{}段视频,请稍等...]:'.format(page) + title)
-    currentVideoPath = '/Users/zhenzhengdehuoyubai/Desktop/Tools/DownloadVideos'  # 当前目录作为下载目录
+    currentVideoPath = '/Users/zhenzhengdehuoyubai/Desktop/Tools/DownloadVideo'  # 当前目录作为下载目录
     for i in video_list:
         opener = urllib.request.build_opener()
         # 请求头

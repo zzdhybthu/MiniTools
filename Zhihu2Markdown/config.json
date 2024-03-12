@@ -1,0 +1,15 @@
+{
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+    },
+    "cookies": {
+        "_zap": "b040743d-f8bf-4296-adf5-97a8c16bbc2f",
+        "d_c0": "ACBYzl7QHBePTuf_1e4hG1WMSQxkSwcITds=|1689850662",
+        "z_c0": "2|1:0|10:1709790541|4:z_c0|80:MS4xMDlVdVBBQUFBQUFtQUFBQVlBSlZUVUoyeUdhY2FVUjlnRnNVLWdqVjc4X3pmWGFPVGpZLURBPT0=|bd0658c5450df4f538386c2cf6bbdf6cb2a4ce3f4450c9e1b72f243d95a77184",
+        "_xsrf": "cb636751-13a7-4cd4-ab9e-078fb84bd5b5",
+        "Hm_lvt_98beee57fd2ef70ccdd5ca52b9740c49": "1709097047,1709130433,1709790540,1709810156",
+        "Hm_lpvt_98beee57fd2ef70ccdd5ca52b9740c49": "1710235730",
+        "KLBRSID": "fe78dd346df712f9c4f126150949b853|1710243068|1710243046"
+    }
+}
