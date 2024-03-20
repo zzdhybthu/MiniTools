@@ -66,7 +66,7 @@ if len(argv) == 2:
     args[1] = args[0]
 
 def default_main():
-    main("/Users/zhenzhengdehuoyubai/Desktop/Tools/DownloadVideos","/Users/zhenzhengdehuoyubai/Desktop/Tools/DownloadMusic")
+    main("/Users/zhenzhengdehuoyubai/Desktop/Tools/DownloadVideo","/Users/zhenzhengdehuoyubai/Desktop/Tools/DownloadMusic")
 
 if __name__ == '__main__':
     # main(args[0], args[1])
